@@ -20,6 +20,7 @@ A high-performance micro-engine for generating structured text logs and reports 
 
 You don't need to run external demo utilities. Below is the actual module execution log. You can copy any line of code from the comments below and run it in a terminal shell to instantly verify that the algorithm is working correctly.
 
+```
 ===============================================
 SAMPLE TEST LOG OF THE ksListingUnit.pas MODULE
 ===============================================
@@ -51,7 +52,7 @@ end;
 2026.08.21 12:13:21,643    330,8887    578,5963    768,2703     38,0767      5,5612      1,0420
 -----------------------------------------------------------------------------------------------
 └───────────────────────────<   E N D   S L I D E   >──────────────────────────┘
- 
+``` 
 
 ## ⏱ Under-the-hood implementation
 
